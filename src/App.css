@@ -1,0 +1,17 @@
+#bloc1{
+    border-bottom: 2px solid black;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+#bloc2{
+    border-bottom: 2px solid black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+#bloc3{
+   
+    padding-top: 30px;
+    padding-left: 20px;
+}
